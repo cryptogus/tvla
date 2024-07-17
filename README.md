@@ -2,6 +2,9 @@
 
 This repository contains an implementation to conduct the specific leakage tests as per the TVLA methodology, given the CSV files for collected power traces. The details of these tests have been taken from the following paper: **Becker, G. et al. “Test Vector Leakage Assessment ( TVLA ) methodology in practice” (2013).**
 
+We will be using power traces from DPA Contest v2 for our analysis.\
+https://dpacontest.telecom-paris.fr/v2/download.php
+
 ## File Descriptions
 - aes.py: Contains a software implementation of AES-128. Code borrowed from the repo: https://github.com/boppreh/aes
 - TVLA.py: Contains the code that analyses the power traces and generates the graphs
