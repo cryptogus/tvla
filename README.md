@@ -6,8 +6,10 @@ We will be using power traces from DPA Contest v2 for our analysis.\
 https://dpacontest.telecom-paris.fr/v2/download.php
 ![image](https://github.com/user-attachments/assets/17cb7b64-9989-4254-8c0b-e530eb293122)
 
-### another test source code & data
+### Another test source code & data
 https://reassure.eu/leakage_detection_tutorial_part2/
+### The documents about TVLA testing
+https://www.rambus.com/wpcontent/uploads/2015/08/TVLA-DTR-with-AES.pdf
 ## File Descriptions
 - aes.py: Contains a software implementation of AES-128. Code borrowed from the repo: https://github.com/boppreh/aes
 - TVLA.py: Contains the code that analyses the power traces and generates the graphs
